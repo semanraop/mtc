@@ -1,0 +1,1 @@
+<script src="{{ asset('js/main4.js') }}" type="module"></script>
